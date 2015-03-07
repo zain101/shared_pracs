@@ -1,5 +1,7 @@
 PRACS
 =====
+###COA: BinaryArith
 
-##SPCC:
-  -Assembler 
+###AOA: Merge, analysis
+
+###SPCC:  -Assembler 
